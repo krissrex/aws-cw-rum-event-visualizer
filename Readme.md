@@ -5,6 +5,8 @@ Uses Jaeger as a UI and tracing backend.
 
 The data in `./test/` is extracted from an AWS LogGroup for RUM.
 
+![Example data in Jaeger](image.png)
+
 ## Running it
 
 Install `maven` and `docker` first.
